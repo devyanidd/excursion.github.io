@@ -1,11 +1,12 @@
 
-html {
+body {
 text-align: center;
 background-color: black;
 }
 
 h1 {
 font-family: Verdana;
+font-weight: normal;
 font-size: 50px;
 color: white;
 text-align: center;
@@ -28,14 +29,14 @@ text-align: center;
 
 }
 
-p {
+a {
 font-family: Verdana;
 font-size: 16px;
 color: aquamarine;
 text-align: center;
 }
 
-span {
+.copyright {
 font-family: Verdana;
 text-align: right;
 color: gray;
