@@ -1,0 +1,42 @@
+
+html {
+text-align: center;
+background-color: black;
+}
+
+h1 {
+font-family: Verdana;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+
+
+h2 {
+font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+text-align: center;
+}
+
+h3 {
+font-family: Verdana;
+font-size: 21px;
+color: gray;
+text-align: center;
+
+}
+
+p {
+font-family: Verdana;
+font-size: 16px;
+color: aquamarine;
+text-align: center;
+}
+
+span {
+font-family: Verdana;
+text-align: right;
+color: gray;
+}
